@@ -1,0 +1,9 @@
+<resources>
+  <bitmap id="LauncherIcon" filename="images/icon.png" />
+  <string id="AppName">Elliptical</string>
+  <menu id="GameMenu">
+    <menu-item id="cancel">Resume</menu-item>
+    <menu-item id="save">Save and quit</menu-item>
+    <menu-item id="discard">Discard and quit</menu-item>
+  </menu>
+</resources>
